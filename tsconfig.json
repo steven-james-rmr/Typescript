@@ -3,6 +3,16 @@
 	"sourceMap": true
   },
   "files": [
-	"mathstuff.ts"
+	"compound.ts",
+	"conditionals.ts",
+	"hello.ts",
+	"heythere.ts",
+	"mathstuff.ts",
+	"operators.ts",
+	"somethingelse",
+	"alias.ts",
+	"types.ts",
+	"variable.ts",
+	"loops.ts"
   ]
 }

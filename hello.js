@@ -4,3 +4,4 @@ var HelloAngularComponenet = /** @class */ (function () {
     }
     return HelloAngularComponenet;
 }());
+//# sourceMappingURL=hello.js.map
