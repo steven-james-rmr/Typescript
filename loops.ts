@@ -5,16 +5,16 @@
 // 	x++;
 // }
 
-let players : number[] = [3, 10, 4, 5, 1];
+// let players : number[] = [3, 10, 4, 5, 1];
 
-// for in
-console.log("For/Of");
-for (let player in players) {
-	console.log(player);
-}
+// // for in
+// console.log("For/Of");
+// for (let player in players) {
+// 	console.log(player);
+// }
 
-// for of
-console.log("For/Of");
-for (let player of players) {
-	console.log(player);
-}
+// // for of
+// console.log("For/Of");
+// for (let player of players) {
+// 	console.log(player);
+// }

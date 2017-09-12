@@ -13,6 +13,9 @@
 	"alias.ts",
 	"types.ts",
 	"variable.ts",
-	"loops.ts"
+	"loops.ts",
+	"functions.ts",
+	"functionargs.ts",
+	"arrow.ts"
   ]
 }
