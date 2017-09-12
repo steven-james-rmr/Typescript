@@ -20,6 +20,8 @@
 	"declarationvsexpression.ts",
 	"immediately_invoked_function.ts",
 	"immediately_invoked_arguement.ts",
-	"closure_intro.ts"
+	"closure_intro.ts",
+	"classes.ts",
+	"inheritance.ts"
   ]
 }
