@@ -1,11 +1,8 @@
 // var fullName = (first, last) => {
 // 	return first + " " + last;
 // }
-
 // console.log(fullName('Steven', 'James'));
-
 // // Steven James
-
 // var gradeGenerator = (grade: number) : string => {
 // 	if (grade < 60) {
 // 		return 'F';
@@ -19,11 +16,10 @@
 // 		return 'A';
 // 	}
 // }
-
 // console.log(gradeGenerator(45));
 // console.log(gradeGenerator(100));
 // console.log(gradeGenerator(80));
-
 // // F
 // // A 
-// // B
+// // B 
+//# sourceMappingURL=arrow.js.map

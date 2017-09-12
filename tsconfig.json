@@ -16,6 +16,10 @@
 	"loops.ts",
 	"functions.ts",
 	"functionargs.ts",
-	"arrow.ts"
+	"arrow.ts",
+	"declarationvsexpression.ts",
+	"immediately_invoked_function.ts",
+	"immediately_invoked_arguement.ts",
+	"closure_intro.ts"
   ]
 }

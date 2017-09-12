@@ -1,7 +1,7 @@
-var HelloAngularComponenet = /** @class */ (function () {
-    function HelloAngularComponenet() {
-        this.greeting = 'Hello Typescript';
-    }
-    return HelloAngularComponenet;
-}());
+// class HelloAngularComponenet {
+// 	greeting: string;
+// 	constructor() {
+// 		this.greeting = 'Hello Typescript';
+// 	}
+// } 
 //# sourceMappingURL=hello.js.map
