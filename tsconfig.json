@@ -22,6 +22,11 @@
 	"immediately_invoked_arguement.ts",
 	"closure_intro.ts",
 	"classes.ts",
-	"inheritance.ts"
+	"inheritance.ts",
+	"objects.ts",
+	"interface.ts",
+	"interface_functions.ts",
+	"interface_classes.ts",
+	"namespaces.ts"
   ]
 }
